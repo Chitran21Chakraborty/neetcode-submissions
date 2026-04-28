@@ -1,5 +1,5 @@
 # NeetCode Solutions — @Chitran21Chakraborty
-- This are my submissions. Hope it will be ebnificial for you.
+- This are my submissions. Hope it will be helpful for you.
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
